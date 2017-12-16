@@ -1,4 +1,5 @@
-# Tic-Tac-Toe Game project template for ether-hack
+# Tic-Tac-Toe Game project by Bay Area ASU CS students
+(currently in progress)
 
 ---
 ### Environment setup
