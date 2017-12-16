@@ -1,4 +1,4 @@
-# Crypto Heroes 2017 - Tic-Tac-Toe Game project by ASU's Bay Area CS students
+# Crypto Heroes 12/15/2017 - Tic-Tac-Toe Game project by #TeamASU
 (currently in progress)
 
 ---
